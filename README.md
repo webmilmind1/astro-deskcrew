@@ -7,7 +7,9 @@
 
 **Add AI live chat, a help center and ticketing to any Astro site in about two minutes, free, with no credit card.** `@deskcrew/astro` is the official [DeskCrew](https://deskcrew.io) integration: one line in `astro.config.mjs` puts a support widget on every page, answers visitor questions from your own help articles, and turns anything it cannot answer into a real support ticket.
 
-![The DeskCrew AI support widget open on an Astro documentation site, answering a visitor question about adding live chat](https://deskcrew.b-cdn.net/plugins/astro-hero.png)
+[![The DeskCrew AI support widget opening on an Astro documentation site and answering a visitor question about adding live chat](https://deskcrew.b-cdn.net/plugins/astro-demo.gif)](https://deskcrew.b-cdn.net/plugins/astro-demo.mp4)
+
+<sub>The widget running on an Astro site. <a href="https://deskcrew.b-cdn.net/plugins/astro-demo.mp4">Watch the full quality video</a>.</sub>
 
 ## Install
 

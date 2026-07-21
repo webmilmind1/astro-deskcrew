@@ -1,6 +1,6 @@
 {
   "name": "@deskcrew/astro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Astro integration that adds the DeskCrew support widget (live chat, instant answers and a help center) to every page.",
   "keywords": [
     "astro-integration",
