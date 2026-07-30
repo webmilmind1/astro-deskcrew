@@ -1,17 +1,25 @@
 {
   "name": "@deskcrew/astro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Astro integration that adds the DeskCrew support widget (live chat, instant answers and a help center) to every page.",
   "keywords": [
+    "astro",
     "astro-integration",
     "astro-component",
     "withastro",
-    "deskcrew",
     "support",
-    "chat",
-    "widget",
     "helpdesk",
-    "live-chat"
+    "help desk",
+    "customer support",
+    "live chat",
+    "chat widget",
+    "support widget",
+    "ai chat",
+    "ai support",
+    "ticketing",
+    "support tickets",
+    "knowledge base",
+    "deskcrew"
   ],
   "repository": {
     "type": "git",
